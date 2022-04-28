@@ -1,0 +1,17 @@
+# Blender MTL File: 'Go_Pro_Hero_10_PBR.blend'
+# Material Count: 1
+
+newmtl GO_Pro_Hero10
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\GO_Pro_Hero10_NormalOpenGL.png
+map_Kd textures\\GO_Pro_Hero10_BaseColor.png
+map_Ns textures\\GO_Pro_Hero10_RoughnessPBR.png
+map_d textures\\GO_Pro_Hero10_BaseColor.png
+refl textures\\GO_Pro_Hero10_MetallicPBR.png

@@ -9,7 +9,7 @@ Some of my fun projects
 <img src="walking/demo/render.png"/>
 
 
-### Standing_still
+### Standing Still
 <img src="standing_still/demo/render.png"/>
 
 

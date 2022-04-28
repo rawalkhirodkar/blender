@@ -143,3 +143,11 @@ __pycache__/
 *.DS_Store
 *._*
 *.egg
+dynaboa/Outputs
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+*.so
+*.DS_Store
+*._*
+*.egg
